@@ -1,0 +1,172 @@
+HTTP/1.1 200 OK
+Server: nginx/1.8.1
+Date: Tue, 08 Aug 2017 17:50:06 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Set-Cookie: JSESSIONID=C0EFACB956FF6B83F7835E645532B46B; Path=/; Secure; HttpOnly
+Access-Control-Allow-Origin: *
+X-Request-ID: 9037ec01-ccf8-4d38-928d-ad483427664a
+X-Application-Context: application:8444
+Vary: Accept-Encoding
+
+{"data":"Request [99c4e97c-eec3-4900-b631-e832158441f7] scheduled in DC successfully!!","links":{"self":"https://172.16.2.175/api/v2/dataCollector/schedule/"}}HTTP/1.1 200 OK
+Server: nginx/1.8.1
+Date: Tue, 08 Aug 2017 17:50:07 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Set-Cookie: JSESSIONID=41CFDF04D9A09300D9734D26C5844046; Path=/; Secure; HttpOnly
+Access-Control-Allow-Origin: *
+X-Request-ID: 67fccf56-dbd6-40b3-9edc-daa0a58df99d
+X-Application-Context: application:8444
+Vary: Accept-Encoding
+
+{"data":"Request [337e17e6-f663-4375-9453-08457c1da39f] scheduled in DC successfully!!","links":{"self":"https://172.16.2.175/api/v2/dataCollector/schedule/"}}HTTP/1.1 200 OK
+Server: nginx/1.8.1
+Date: Tue, 08 Aug 2017 17:50:08 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Set-Cookie: JSESSIONID=2671454DB6CA7CEC3E705E3A2FD626B7; Path=/; Secure; HttpOnly
+Access-Control-Allow-Origin: *
+X-Request-ID: ae7b91af-33cb-45c8-9e02-13eb1738b11d
+X-Application-Context: application:8444
+Vary: Accept-Encoding
+
+{"data":"Request [16d2a5e6-cc1c-4796-b456-cca30d18ba80] scheduled in DC successfully!!","links":{"self":"https://172.16.2.175/api/v2/dataCollector/schedule/"}}HTTP/1.1 200 OK
+Server: nginx/1.8.1
+Date: Tue, 08 Aug 2017 17:51:13 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Set-Cookie: JSESSIONID=AB204B7F52C5D39320D5B8BDB2BB888D; Path=/; Secure; HttpOnly
+Access-Control-Allow-Origin: *
+X-Request-ID: 5cb73833-5129-4188-b70b-c4df7b909824
+X-Application-Context: application:8444
+Vary: Accept-Encoding
+
+{"data":"Request [7f202689-c3e8-4b39-ab8d-22dd34b38cda] scheduled in DC successfully!!","links":{"self":"https://172.16.2.175/api/v2/dataCollector/schedule/"}}HTTP/1.1 200 OK
+Server: nginx/1.8.1
+Date: Tue, 08 Aug 2017 17:51:14 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Set-Cookie: JSESSIONID=5F958A85090E41E1AB20B8B3D5390F49; Path=/; Secure; HttpOnly
+Access-Control-Allow-Origin: *
+X-Request-ID: 6f972c86-2a1e-4fce-996f-d2886661fa31
+X-Application-Context: application:8444
+Vary: Accept-Encoding
+
+{"data":"Request [aab7499a-713e-460b-8cdb-d2474f8901e0] scheduled in DC successfully!!","links":{"self":"https://172.16.2.175/api/v2/dataCollector/schedule/"}}HTTP/1.1 200 OK
+Server: nginx/1.8.1
+Date: Tue, 08 Aug 2017 17:51:16 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Set-Cookie: JSESSIONID=35C7697088171C84EB5FBF3C0B86B419; Path=/; Secure; HttpOnly
+Access-Control-Allow-Origin: *
+X-Request-ID: ac0875c5-c28f-42eb-9f73-8a44840b3ce4
+X-Application-Context: application:8444
+Vary: Accept-Encoding
+
+{"data":"Request [d145a9e3-c14f-4320-9aa0-a4efa7234765] scheduled in DC successfully!!","links":{"self":"https://172.16.2.175/api/v2/dataCollector/schedule/"}}HTTP/1.1 200 OK
+Server: nginx/1.8.1
+Date: Thu, 10 Aug 2017 12:44:16 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Set-Cookie: JSESSIONID=48AD62ABAADE34A00B8424B8385FAAB8; Path=/; Secure; HttpOnly
+Access-Control-Allow-Origin: *
+X-Request-ID: d597176e-5a87-4a61-9655-8a60f28cee93
+X-Application-Context: application:8444
+Vary: Accept-Encoding
+
+{"data":"Request [2e5d2e67-658a-4e54-8a24-5cc649df9cd4] scheduled in DC successfully!!","links":{"self":"https://172.16.2.175/api/v2/dataCollector/schedule/"}}HTTP/1.1 200 OK
+Server: nginx/1.8.1
+Date: Thu, 10 Aug 2017 12:44:18 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Set-Cookie: JSESSIONID=E0DB5DB0E90F178048A86FAD29747699; Path=/; Secure; HttpOnly
+Access-Control-Allow-Origin: *
+X-Request-ID: beafe0aa-6857-4855-ae12-3024e3de7791
+X-Application-Context: application:8444
+Vary: Accept-Encoding
+
+{"data":"Request [534f1035-6e53-4988-9693-ea9b38e0855e] scheduled in DC successfully!!","links":{"self":"https://172.16.2.175/api/v2/dataCollector/schedule/"}}HTTP/1.1 200 OK
+Server: nginx/1.8.1
+Date: Thu, 10 Aug 2017 12:44:20 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Set-Cookie: JSESSIONID=8F4990C7BB7088E31ABA125659B58E5F; Path=/; Secure; HttpOnly
+Access-Control-Allow-Origin: *
+X-Request-ID: fb1d3868-bebb-4fc2-92a6-976324f4234a
+X-Application-Context: application:8444
+Vary: Accept-Encoding
+
+{"data":"Request [cc755ee4-0bf2-4e3a-af73-0d8f28e567bb] scheduled in DC successfully!!","links":{"self":"https://172.16.2.175/api/v2/dataCollector/schedule/"}}
