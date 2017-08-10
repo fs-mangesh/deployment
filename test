@@ -1,0 +1,19 @@
+#! /bin/bash
+
+
+#Data file Holds Latest Build Number
+
+touch > /Mangesh/172.16.5.201/data
+
+#readMail.py Script is responsible for Cont.. readming and updating (Mark as READ) user emails, If the mail contains Build Info it will Store in Data File
+
+python /Mangesh/172.16.5.201/readMail.py > /Mangesh/172.16.5.201/data
+
+
+#BUILD=`cat data  | grep "Meridian Build" | tr -s " " |   cut -d ":" -f6 | cut -d "-" -f2 | cut -d " " -f2`
+
+#Storing Latest Build Number
+
+BUILD=`cat /Mangesh/172.16.5.201/data | grep "Meridian Build" | cut -d "-" -f15 | cut -d " " -f2`
+
+echo $BUILD
